@@ -1,0 +1,27 @@
+{
+  "name": "nesh-lodash2",
+  "version": "0.1.1",
+  "description": "Makes lodash available as _ in Nesh",
+  "main": "index.js",
+  "author": "Alexey Balekhov <a@balek.ru>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balek/nesh-lodash2.git"
+  },
+  "keywords": [
+    "nesh",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/balek/nesh-lodash2/issues"
+  },
+  "homepage": "https://github.com/balek/nesh-lodash2",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "lodash": "^4.14.1"
+  },
+  "peerDependencies": {
+    "nesh": "^1.6.0"
+  }
+}
